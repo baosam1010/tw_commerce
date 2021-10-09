@@ -16,11 +16,13 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-          <h2>Hello</h2>
+          <h2 className="mt-3 text-red-500">Hello</h2>
         </a>
+        
       </header>
+      
     </div>
   );
 }
-
+  
 export default App;
